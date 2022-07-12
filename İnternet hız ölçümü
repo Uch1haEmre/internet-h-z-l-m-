@@ -6,4 +6,5 @@ Speedtest
 
 st = Speedtest()
 
-print("Indirme haza ist.download()/1980098) MBPS") print("Yüklene hizi {st.upload()/1888068) MBPS")
+print("Indirme haza ist.download()/1980098) MBPS")
+print("Yüklene hizi {st.upload()/1888068) MBPS")
